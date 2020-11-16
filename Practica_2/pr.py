@@ -143,6 +143,7 @@ if __name__ == "__main__":
 
     variable = 10
     a_vaer = 111
+    aver = "a"
     opc = int(input('''
 
             Selecciona la función (escribe número).
